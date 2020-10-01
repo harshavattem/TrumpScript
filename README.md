@@ -61,7 +61,7 @@ Arithmetic operators:
 * `*` and `times` do multiplication
 * `/` and `over` do division
 * `<`, `less`, `fewer`, and `smaller` all evaluate to 'less than'
-* `>`, `more`, `greater`, and `larger` all evaluate to 'greater than'
+* `>`, `more`, `greater`, `larger`, and `bigly` all evaluate to 'greater than'
 
 Control flow:
 * Use `,` and `;` to treat compound statements as a single evaluation, similar to how `()` are used in other languages
