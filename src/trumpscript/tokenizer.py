@@ -156,7 +156,7 @@ class Tokenizer:
                         tokens.append(Tokenizer.toke(T_Mod, None,line))
                     elif word == "less" or word == "fewer" or word == "smaller":
                         tokens.append(Tokenizer.toke(T_Less, None, line))
-                    elif word == "more" or word == "greater" or word == "larger":
+                    elif word == "more" or word == "greater" or word == "larger" or word == "bigly":
                         tokens.append(Tokenizer.toke(T_Greater, None, line))
 
                     # Otherwise, it's just a word, interpreting is the lexer's job
