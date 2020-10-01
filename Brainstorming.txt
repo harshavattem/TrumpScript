@@ -46,7 +46,7 @@ while -> as long as
 print -> tell, say
 
 < -> less, fewer, smaller
-> -> more, greater, larger
+> -> more, greater, larger, bigly
 
 OTHER:
 
